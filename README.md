@@ -55,3 +55,8 @@ si no quedan hamburguesas entra al else, alli pongo el cambio de turno y paso al
 Viendo la figura como sería para el problema de las hamburguesas con 2 comensales y 8 hamburgesas.
 
 esquema
+
+
+# ASO2024TPs4
+
+#Página con docker
