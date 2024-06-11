@@ -60,3 +60,25 @@ esquema
 # ASO2024TPs4
 
 Página con docker
+
+
+
+
+
+
+
+
+
+
+#ASO2024TPs5
+
+parte 1 - CRONOMETRO
+parte 1
+
+
+
+
+
+
+parte 2 - GENERO
+parte 2
