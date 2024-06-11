@@ -76,9 +76,9 @@ parte 1 - CRONOMETRO
 parte 1
 
 
-
-
+<img src="./ASO2024TPs/Tp 5/PARTE 1 - CRONOMETRO.jpg" />
 
 
 parte 2 - GENERO
 parte 2
+<img src="./ASO2024TPs/Tp 5/PARTE 2 - GENERO.jpg" />
